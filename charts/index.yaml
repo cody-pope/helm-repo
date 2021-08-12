@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2021-08-12T14:02:29.730221-04:00"
+entries:
+  spring-boot-demo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-12T14:07:47.647835-04:00"
+    description: A Helm chart for Kubernetes
+    digest: d6a8c0d167b8109a5449312f102f516a5f9f9b9de0f41d18abe47020923900e9
+    name: spring-boot-demo
+    type: application
+    urls:
+    - spring-boot-demo-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-08-12T14:07:47.647183-04:00"
