@@ -1,0 +1,33 @@
+apiVersion: v1
+entries:
+  maven-pipeline:
+  - apiVersion: v2
+    created: "2021-08-20T11:21:37.066616-04:00"
+    description: Create a Tekton pipeline for a Maven application
+    digest: 431f6ab5c2bfddb84ec02175755bf0e205ec68b14d0df24a11a24b13dc784928
+    name: maven-pipeline
+    type: application
+    urls:
+    - maven-pipeline-1.0.0.tgz
+    version: 1.0.0
+  spring-boot-demo:
+  - apiVersion: v2
+    created: "2021-08-20T11:21:37.068187-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 55c3a4d2575451d04866cd9afc47dbdfe68b93839ef2e8cc52e0d710296138f3
+    name: spring-boot-demo
+    type: application
+    urls:
+    - spring-boot-demo-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-20T11:21:37.06741-04:00"
+    description: A Helm chart for Kubernetes
+    digest: d6a8c0d167b8109a5449312f102f516a5f9f9b9de0f41d18abe47020923900e9
+    name: spring-boot-demo
+    type: application
+    urls:
+    - spring-boot-demo-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-08-20T11:21:37.064973-04:00"
